@@ -73,6 +73,7 @@ pnpm-debug.log*
 # Docker-related files
 # -------------------------------
 Dockerfile
+Dockerfile.dev
 .dockerignore
 docker-compose.yml
 docker-compose.override.yml

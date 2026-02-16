@@ -21,7 +21,7 @@ Thumbs.db
 .env.*
 *.secret
 *.key
-
+*.dev
 # IDE/editor configs
 .vscode/
 .idea/
@@ -41,3 +41,4 @@ __pycache__/
 # dk
 Dockerfile
 Dockerfile.dev
+compose.yaml
